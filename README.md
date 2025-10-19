@@ -1,5 +1,3 @@
-<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/9dae645a-5f64-47a4-a3a5-83b0360c85bf" /># 🛒 Website Jual Beli Sederhana - TokoKita
-
 Proyek ini merupakan tugas **Project Mandiri** mata kuliah *Pemrograman Berbasis Platform* (PBP) Semester Ganjil 2025/2026.
 
 ## 📖 Deskripsi Singkat
