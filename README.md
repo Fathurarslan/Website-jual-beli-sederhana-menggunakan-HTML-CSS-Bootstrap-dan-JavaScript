@@ -25,6 +25,10 @@ Detail:
 Kontak:
 <img width="1919" height="864" alt="Screenshot 2025-10-19 120652" src="https://github.com/user-attachments/assets/7e0dc990-5821-4898-95de-943a5b911dd7" />
 
+## 🎥 Video Presentasi
+Lihat video presentasi proyek di YouTube:
+[Klik di sini untuk menonton](https://youtu.be/VTxZs5GY73s?si=FGMv3HX-lDtQha-I)
+
 ## 👨‍💻 Identitas Pembuat
 **Nama:** Muhammad Fathurrahman Alf Arslan  
 **Kelas:** 2024 C  
